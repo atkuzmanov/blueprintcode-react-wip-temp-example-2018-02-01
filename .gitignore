@@ -1,0 +1,19 @@
+# Mac
+.DS_Store
+
+# Source code
+node_modules
+dist
+
+# Speculate
+SOURCES
+SPECS
+*.service
+
+# IntelliJ
+.idea
+.idea_modules/
+*.iml
+
+# VS Code
+.vscode

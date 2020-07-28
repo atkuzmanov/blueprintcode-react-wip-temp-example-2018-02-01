@@ -1,0 +1,13 @@
+{
+    "name" : "blueprintcode",
+    "handle": [
+        {
+            "path": "/",
+            "https": true
+        }
+    ],
+    "packaging" : {
+        "type" : "spec"
+    },
+    "custom_log_locations": ["/var/log/blueprintcode/application.log", "/var/log/blueprintcode/output.log"]
+}
