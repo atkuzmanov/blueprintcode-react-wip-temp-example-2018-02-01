@@ -42,7 +42,7 @@
   },
   "devDependencies": {
     "eslint-loader": "^1.5.0",
-    "eslint": "^3.2.2",
+    "eslint": "^4.19.1",
     "babel-loader": "^6.2.4",
     "babel-core": "^6.13.2",
     "babel-preset-react": "^6.11.1",
